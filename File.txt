@@ -1,2 +1,5 @@
 Adding new file
+<<<<<<< HEAD
 lets add some more code and data
+=======
+>>>>>>> c9d0711 (uploaded on deleted)
