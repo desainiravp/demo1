@@ -1,9 +1,0 @@
-Adding new file
-<<<<<<< HEAD
-<<<<<<< HEAD
-lets add some more code and data
-=======
->>>>>>> c9d0711 (uploaded on deleted)
-=======
-lets add some more code and data
->>>>>>> 6784002 (New update)
