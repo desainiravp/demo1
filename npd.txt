@@ -1,11 +1,5 @@
  Hi How are you all? hope doing well and working well
-<<<<<<< HEAD
-<<<<<<< HEAD
  Changing to get idea and trying to learn more
-=======
  Changing to get idea
->>>>>>> a642006a111a3db863e4881ffb679a463382a4d7
-=======
  Apply new code
->>>>>>> latest
 Keep on committing new code
