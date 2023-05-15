@@ -8,3 +8,4 @@
 =======
  Apply new code
 >>>>>>> latest
+Keep on committing new code
